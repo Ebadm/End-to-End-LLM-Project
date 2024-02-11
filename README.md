@@ -77,10 +77,10 @@ streamlit run main.py
 ###  2.The web app will open in your browser where you can ask questions
 
 ## Example Questions
-"How many Samsung headphones are currently in stock?"
-"What will be the total revenue if we sell all laptops at the current discount rate?"
-"List all the items with more than 20% discount."
-"How many units of the grey iPhone are left in stock?"
+- "How many Samsung headphones are currently in stock?" <br>
+- "What will be the total revenue if we sell all laptops at the current discount rate?" <br>
+- "List all the items with more than 20% discount." <br>
+- "How many units of the grey iPhone are left in stock?" <br>
 
 ## Project Structure
 - main.py: The main Streamlit application script.
