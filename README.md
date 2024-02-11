@@ -9,6 +9,7 @@ This end to end LLM project leverages the power of Google PaLM and LangChain to 
 At the retail store where they maintain their inventory, sales and discounts data in MySQL database. A store manager may want to ask questions such as,
 - How many black Apple smartphones do we have left in stock?
 - If we have to sell all the Samsung electronic items today. How much revenue our store will generate without discount?
+
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
 
