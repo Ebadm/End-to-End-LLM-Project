@@ -47,25 +47,19 @@ Clone the project repository to your local machine:
 git clone https://github.com/Ebadm/End-to-End-LLM-Project-with-LangChain-SQL.git
 ```
 
-### 2. Navigate to the project directory:
-
-```bash
-  cd sqldb_retail
-```
-
-### 3. Install the required dependencies using pip:
+### 2. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
 
-### 4.Acquire an api key through makersuite.google.com and put it in .env file
+### 3. Acquire an api key through makersuite.google.com and put it in .env file
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
 
-### 5. For database setup, run database/db_creation_ebadm_electronics in your MySQL workbench
+### 4. For database setup, run database/db_creation_ebadm_electronics in your MySQL workbench
 
 ## Usage
 
